@@ -15,7 +15,7 @@ Este projeto utiliza um ESP8266 para controlar um relé via mensagens MQTT. O di
 
 * 3D
   
-![3D](https://github.com/felipeluizcarli/felipeluizcarli-PCB-NodeMCU8266./assets/127907269/157629c2-15b8-4fd7-8d05-72b0ccd841b3)
+![3D](https://github.com/felipeluizcarli/MCU8266./assets/127907269/157629c2-15b8-4fd7-8d05-72b0ccd841b3)
 
 ## Componentes Necessários
 
