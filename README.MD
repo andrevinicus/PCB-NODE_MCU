@@ -12,7 +12,7 @@
 
 * 3D
   
-![3D](https://github.com/felipeluizcarli/MCU8266./assets/127907269/157629c2-15b8-4fd7-8d05-72b0ccd841b3)
+![3D](https://github.com/felipeluizcarli/felipeluizcarli-PCB-NodeMCU8266./assets/127907269/157629c2-15b8-4fd7-8d05-72b0ccd841b3)
 # Controle de Relé com ESP8266 via MQTT
 
 Este projeto utiliza um ESP8266 para controlar um relé via mensagens MQTT. O dispositivo se conecta a uma rede Wi-Fi, assina um tópico MQTT e controla o relé com base nas mensagens recebidas (`ON` ou `OFF`).
